@@ -1,27 +1,25 @@
-# Hola, soy Enrique!
+<h1 align="center">Hi 👋, I'm Enrique Giménez</h1>
+<h3 align="center">A passionate data scientist student from Paraguay</h3>
 
-Actualmente, me dedico a aprender todas las tecnologías que tengan que ver con Data Science.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fenriquegimenez" alt="fenriquegimenez" /> </p>
 
-## Dónde estudio
+- 🔭 I’m currently working on [python spanish documentation](github.com/python/python-docs.es)
 
-- [Platzi](platzi.com)
-- [JetBrains Academy](hyperskill.org)
-- [FreeCodeCamp.org](freecodecamp.org)
-- [CodeCademy](codecademy.com)
+- 🌱 I’m currently learning **Data Science**
 
-## Skills
+- 👨‍💻 All of my projects are available at [fenriquegimenez@github.io](fenriquegimenez@github.io)
 
-- Python
-- Git
-- SQL
-- HTML, CSS and basic JS
-- WordPress
+- 📫 How to reach me **fenriquegimenez@gmail.com**
 
-## Social media
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 
-- [twitter](twitter.com/def_enrique)
-- [linkedin](linkedin.com/fenriquegimenez)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fenriquegimenez&layout=compact" alt="fenriquegimenez" /></p>
 
-## Contact
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fenriquegimenez&show_icons=true" alt="fenriquegimenez" /></p>
 
-[Send me a mail](mailto:fenriquegimenez@gmail.com)
+<p align="center">
+<a href="https://codepen.io/fenriquegimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fenriquegimenez" height="30" width="30" /></a>
+<a href="https://dev.to/fenriquegimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="fenriquegimenez" height="30" width="30" /></a>
+<a href="https://twitter.com/def_enrique" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="def_enrique" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/fenriquegimenez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fenriquegimenez" height="30" width="30" /></a>
+</p>
