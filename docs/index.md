@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [fenriquegimenez@github.io](fenriquegimenez@github.io)
+- 👨‍💻 All of my projects are available at [my Github profile](github.com/fenriquegimenez/)
 
 - 📫 How to reach me **fenriquegimenez@gmail.com**
 
