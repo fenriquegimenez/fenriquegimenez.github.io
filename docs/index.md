@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Hola, soy Enrique!
 
-You can use the [editor on GitHub](https://github.com/fenriquegimenez/webpage/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Actualmente, me dedico a aprender todas las tecnologías que tengan que ver con Data Science.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Dónde estudio
 
-### Markdown
+- [Platzi](platzi.com)
+- [JetBrains Academy](hyperskill.org)
+- [FreeCodeCamp.org](freecodecamp.org)
+- [CodeCademy](codecademy.com)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+- Python
+- Git
+- SQL
+- HTML, CSS and basic JS
+- WordPress
 
-# Header 1
-## Header 2
-### Header 3
+## Social media
 
-- Bulleted
-- List
+- [twitter](twitter.com/def_enrique)
+- [linkedin](linkedin.com/fenriquegimenez)
 
-1. Numbered
-2. List
+## Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fenriquegimenez/webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Send me a mail](mailto:fenriquegimenez@gmail.com)
